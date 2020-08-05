@@ -1,7 +1,3 @@
-react-translation-app is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=react-translation-app"><img src="https://images.gitads.io/react-translation-app" alt="GitAds"/></a> 
-
 Hello, My Friends  
 
 Thanks for your interest in this repository ! 
